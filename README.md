@@ -5,7 +5,7 @@ Sin introducciones, Pacheco! lee! investiga!
 ##### Editor: 
 [Sublime Text 2] y si estas apurado: [Descarga Directa]!! , ES NECESARIO que le agregues al sublime el [Package Control]. Sé que podrás instalarlo sin problemas, solo lee bien y si no entriendes traduce la pagina (clic derecho traducir).
 
-##### [Python]:
+##### Python:
 Faltó agregarle a las variables del sistema el site-package de python: C:\Python34\Scripts; . Revisa si en tu ordenador es la misma dirección.
 
 ##### Django:
