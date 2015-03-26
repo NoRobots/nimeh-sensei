@@ -11,7 +11,7 @@ Faltó agregarle a las variables del sistema el site-package de python: C:\Pytho
 ##### Django:
 Para instalar Django se necesita el PIP (un paquete de python), y no me acuerdo como se agregaba, pero por seguridad revisa en la carpeta site-package y si no hay ninguna carpeta con el nombre de pip tendras que instalarlo manualmente y para eso primero descarga el [tar.gz] descomprimelo y luego usa la consola:
 ```cmd
- C:\Users\Admin>cd 
+ C:\Users\Admin>cd C:\Users\ELIANA\Downloads\Django #Esta es la carpeta donde descomprimiste el archivo
 ```
 [tar.gz]:https://www.djangoproject.com/download/1.8c1/tarball/
 [Sublime Text 2]:http://www.sublimetext.com/
